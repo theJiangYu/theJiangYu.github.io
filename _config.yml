@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiang Yu, PhD/ Machine Learning Researcher/Engineer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiang Yu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+    name             : "Jiang Yu - Researcher/Engineer"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Jiang is a PhD candidate at NYU, with working experience as software engineer / researcher at AIG, AWS, Twitter, Wechat and Intel. His research interests focus on Reinforcement Learning, Deep Learning, NLU"
+  location         : "New York City"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : theJiangYu.com
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "theJiangYu"
   foursquare       :
-  github           : "academicpages"
+  github           : "theJiangYu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "theJiangYu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "theJiangYu"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "theJiangYu"
   vine             :
   weibo            :
   xing             :
